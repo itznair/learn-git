@@ -1,3 +1,1 @@
-First line hello World line:
-This is second line
-Hello this is my new third line
+First line
